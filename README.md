@@ -34,3 +34,30 @@ The data flow diagram should include processes such as "Student Registration," "
 ### Additional Details: 
 Define data flows representing student information, course details, enrollment requests, and academic records exchanged within the system. Discuss how the data flow diagram helps visualize the registration process and identify interactions between users and system components.
 
+## 6) Swimlane Diagram
+Create a swimlane diagram to illustrate the process of performing an oil change for a vehicle, depicting the responsibilities of various stakeholders involved in the process.
+
+### Requirements:
+Identify Stakeholders:
+- Customer/vehicle owner
+- Service technician/mechanic
+- Service advisor
+- Parts department (if applicable)
+- Quality control/inspection team (if applicable)
+
+### Define Process Steps:
+Break down the oil change process into sequential steps, from the initial customer request to the completion of the service. Some typical steps may include:
+- Customer arrival/check-in
+- Vehicle inspection
+- Parts/materials preparation
+- Oil draining
+- Oil filter replacement
+- Oil refill
+- Quality inspection
+- Customer pickup/payment
+
+### Create Swimlanes:
+Designate swimlanes for each stakeholder or department involved in the process. 
+
+### Include Decision Points:
+Identify decision points or branches in the process where different actions or outcomes may occur. For example, if an additional service is recommended during the inspection, depict the decision-making process involving the service advisor and customer.
